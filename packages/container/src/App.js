@@ -8,7 +8,7 @@ export default () => {
   return (
     <BrowserRouter>
       <div>
-        <p>cicd --- test</p>
+        <p>cicd2 --- test</p>
         <ShowMessage></ShowMessage>
         <Header></Header>
         <MarketingApp></MarketingApp>
