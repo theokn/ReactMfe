@@ -14,7 +14,7 @@ export default () => {
     <BrowserRouter>
       <StylesProvider generateClassName={generateClassName}>
         <div>
-          <p>cicd21 --- test</p>
+          <p>cicd21 --- test, new feature from dev</p>
           <ShowMessage></ShowMessage>
           <Header></Header>
           <MarketingApp></MarketingApp>
